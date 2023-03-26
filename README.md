@@ -20,13 +20,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](C:\Users\HP\Desktop\Web dev\screenshot.jpeg)
+(C:\Users\HP\Desktop\Web dev\screenshot.jpeg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://julesnwoye.github.io/qr-code/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://julesnwoye.github.io/qr-code/](https://julesnwoye.github.io/qr-code/)
+- Live Site URL: [https://julesnwoye.github.io/qr-code/](https://your-live-site-url.com)
 
 ## My process
 
